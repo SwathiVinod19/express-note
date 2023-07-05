@@ -1,0 +1,17 @@
+{
+  "name": "express-note",
+  "version": "1.0.0",
+  "description": "A note taker that uses Express.js back end which saves and retrieve note data from a JSON file.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}

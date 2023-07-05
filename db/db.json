@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"Test Title","text":"Test text"},{"title":"Buy groceries","text":"carrots, beans, rice, cheese","id":"6154fdd1-e6de-483c-a6c2-2906dae0fa4d"},{"title":"vet appointment","text":"caesar's vaccination","id":"6b6e1ff5-a6ab-446d-a994-dd2158731483"},{"title":"Call Andrew","text":"check dates for picnic","id":"978d8b8e-5473-4e68-8c99-d911b83b733a"},{"title":"Bills","text":"Mobile bills and Hydro bills","id":"fee1786d-9539-46f8-af1d-47962796cb9f"},{"title":"call Family Dr.","text":"annual health check!","id":"9d251a64-faa2-4a13-b1ce-80f951dfe977"}]
