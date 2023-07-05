@@ -70,6 +70,26 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Screenshots
+![express-js-screenshot-one](https://github.com/SwathiVinod19/express-note/assets/129353324/b183b4f5-f749-44c5-8d7b-35fb708a3ad5)
+
+terminal command 
+
+![express-js-landing-page](https://github.com/SwathiVinod19/express-note/assets/129353324/e41d90ad-b60f-42e0-bed0-2a1c8e85f516)
+
+landing page
+
+![adding a new note](https://github.com/SwathiVinod19/express-note/assets/129353324/7a387aca-22d9-43ed-8854-66aeed36e1b7)
+
+Adding a new note
+
+![checking-existing-note](https://github.com/SwathiVinod19/express-note/assets/129353324/b390f399-43c8-454f-9667-912f8273e8df)
+
+checking an existing note
+
+
+![image](https://github.com/SwathiVinod19/express-note/assets/129353324/78dd2db0-1256-4ea9-9633-3df39c3a2df2)
+
+terminal logs
 
 
 ## Contributions
