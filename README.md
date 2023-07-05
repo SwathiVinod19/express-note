@@ -22,7 +22,7 @@ When you open the note taker app, it opens on a landing page with a link that op
 - [User Story](#User-story)
 - [Acceptance Criteria](#Acceptance-criteria)
 - [Screenshots](#Screenshots)
-- [Contribution](#Contribution)
+- [Contributions](#Contributions)
 - [Acknowledgements](#Acknowledgements)
 - [Questions](#Questions)
 
