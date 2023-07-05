@@ -72,7 +72,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Screenshots
 
 
-## Contributions :
+## Contributions
  Contact me for any contribution ideas or requests.
 
 ## Acknowledgements
