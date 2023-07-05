@@ -13,12 +13,13 @@ A note taker that uses Express.js back end which saves and retrieve note data fr
 To make a simple note taker app that uses express js backend and javascript in the front end
 
 ## Description
-When you open the note taker app, it opens on a landing page with a link that opens into the "notes" page. The user can see existing notes listen on the left hand side and can add and save new notes to it. When you click on an existing note, the details of that note appears on the right hand corner. You can delete a note by pressing the delete icon.
+When you open the note taker app, it opens on a landing page with a link that opens into the "notes" page. The user can see existing notes listed on the left hand side and can add and save new notes to it. When you click on an existing note, the details of that note appears on the right hand corner. You can delete a note by pressing the delete icon.
 
 ## Table of Contents
 - [License](#License)
 - [Installation](#Installation)
 - [Usage](#Usage)
+- [Deployed link](#Deployed-link)
 - [User Story](#User-story)
 - [Acceptance Criteria](#Acceptance-criteria)
 - [Screenshots](#Screenshots)
@@ -45,6 +46,9 @@ This application is licensed under MIT License
 * Click the 'save' icon to save a new note.
 * Access and open saved notes by selecting a note in the list located on the left side.
 * Click the red trash can icon to delete a saved note.
+
+## Deployed link
+https://intense-inlet-90044-e9b325fd751f.herokuapp.com/
 
 ## User Story
 ```
